@@ -1,8 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/protonet-jquery.inview/1.1.2/jquery.inview.min.js"></script>
-
-
-
 // Find all text with .tricks class and break each letter into a span
 var tricksWord = document.getElementsByClassName("tricks");
 for (var i = 0; i < tricksWord.length; i++) {
@@ -442,9 +437,6 @@ $('#ig').on('inview', function(event, isInView) {
 });
 
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-
-
 // when document is fully loaded
 $( document ).ready(function() {
 
@@ -490,10 +482,7 @@ $('.slider-next').click(function(){
 
 
 
-<link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
-<script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
 
-<script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
 
       document.addEventListener('DOMContentLoaded', () => {
       const controls = [
